@@ -66,5 +66,5 @@ In addition to the core functionalities, the project includes a bonus feature:
 
 [Watch the demo video](https://drive.google.com/file/d/1ECQBSjFKeMyf-O8mTz99O8KQSbWXjLNk/view?usp=drive_link)
 
-Demo video lonk of the project:
+Demo video link of the project:
 https://drive.google.com/file/d/1ECQBSjFKeMyf-O8mTz99O8KQSbWXjLNk/view?usp=drive_link
