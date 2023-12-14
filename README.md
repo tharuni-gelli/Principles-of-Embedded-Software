@@ -38,5 +38,11 @@ situations:
 ● RED signifies the danger state.
 9) The Systick timer and delay function are utilized to introduce a delay
 
+UART conifguration
+Baud Rate - 38400
+data bits -8
+stop bit- 2
+Parity - None
+
 DEmo video lonk of the project:
 https://drive.google.com/file/d/1ECQBSjFKeMyf-O8mTz99O8KQSbWXjLNk/view?usp=drive_link
