@@ -38,11 +38,32 @@ situations:
 ● RED signifies the danger state.
 9) The Systick timer and delay function are utilized to introduce a delay
 
-UART conifguration
-Baud Rate - 38400
-data bits -8
-stop bit- 2
-Parity - None
+## UART conifguration
+1)Baud Rate - 38400
+2)data bits -8
+3)stop bit- 2
+4)Parity - None
 
-DEmo video lonk of the project:
+## Technology Used
+
+I2C (Inter-Integrated Circuit): Utilized to interface with the SHT21 temperature and humidity sensor, expanding knowledge beyond the classroom setting.
+ADC (Analog-to-Digital Converter): Applied for interfacing with the MQ7 CO sensor, extending the understanding gained in Assignment 7 to extract data from an external sensor.
+UART (Universal Asynchronous Receiver-Transmitter): Employed for displaying sensor data on the terminal, building on previous assignments.
+PWM (Pulse Width Modulation): Used to control an RGB LED, providing visual indicators for various weather conditions.
+Learning Objectives
+I2C Communication Protocol: Understanding the intricacies of the I2C protocol, necessary for interfacing with the SHT21 sensor and extracting temperature and humidity data.
+ADC for External Sensor: Expanding ADC knowledge to extract data from an external sensor (MQ7 CO sensor) and displaying it through UART.
+Strengthening UART and PWM Concepts: Reinforcing the foundation of UART and PWM through practical implementation in the project.
+Command Processor Implementation: Adding a command processor to enhance the project's functionality and user interaction.
+
+## Hardware Used
+SHT21 Sensor: Provides temperature and humidity data for weather monitoring.
+MQ7 CO Sensor: Measures carbon monoxide levels, contributing to comprehensive environmental monitoring.
+
+## Bonus Implementation
+In addition to the core functionalities, the project includes a bonus feature:
+
+Humidity Sensing: Extracting humidity data from the SHT21 sensor along with temperature values, offering a more complete weather monitoring solution.
+
+Demo video lonk of the project:
 https://drive.google.com/file/d/1ECQBSjFKeMyf-O8mTz99O8KQSbWXjLNk/view?usp=drive_link
