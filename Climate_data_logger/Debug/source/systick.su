@@ -1,0 +1,7 @@
+C:\Users\THARUNI GELLI\Documents\MCUXpressoIDE_11.8.0_1165\workspace\Climate_data_logger\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+C:\Users\THARUNI GELLI\Documents\MCUXpressoIDE_11.8.0_1165\workspace\Climate_data_logger\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/systick.c:13:6:Init_SysTick	8	static
+../source/systick.c:22:6:SysTick_Handler	8	static
+../source/systick.c:27:12:now	8	static
+../source/systick.c:31:6:reset_timer	8	static
+../source/systick.c:37:12:get_timer	8	static

@@ -1,0 +1,6 @@
+C:\Users\THARUNI GELLI\Documents\MCUXpressoIDE_11.8.0_1165\workspace\Climate_data_logger\drivers/fsl_uart.h:500:20:UART_EnableTx	16	static
+C:\Users\THARUNI GELLI\Documents\MCUXpressoIDE_11.8.0_1165\workspace\Climate_data_logger\drivers/fsl_uart.h:520:20:UART_EnableRx	16	static
+C:\Users\THARUNI GELLI\Documents\MCUXpressoIDE_11.8.0_1165\workspace\Climate_data_logger\drivers/fsl_lpsci.h:461:20:LPSCI_EnableTx	16	static
+C:\Users\THARUNI GELLI\Documents\MCUXpressoIDE_11.8.0_1165\workspace\Climate_data_logger\drivers/fsl_lpsci.h:481:20:LPSCI_EnableRx	16	static
+../utilities/fsl_debug_console.c:232:10:DbgConsole_Init	48	static
+../utilities/fsl_debug_console.c:334:10:DbgConsole_Deinit	8	static
