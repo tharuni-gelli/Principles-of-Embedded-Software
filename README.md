@@ -1,14 +1,12 @@
-# PES_Final_project
-
-## Climate Data Logger
+# Climate Data Logger
 
 **Project Report by Tharuni Gelli**
 
-### Objective
+## Objective
 
 Due to numerous instances of fires occurring in and around Boulder, I conceived the notion of establishing a weather surveillance station. The objective of this initiative is to consistently observe the climate by employing a temperature/humidity sensor (SHT21) for continuous temperature monitoring and an MQ7 sensor designed to detect concentrations of CO in the air.
 
-### Implementation
+## Implementation
 
 1. Before the main function begins, the FRDM-KL25Z initiates PWM and conducts automated tests with varying values of the RGB LED in Danger, Warning, and Safe states.
 2. Initiate the initialization process for all other modules utilized in the project, followed by executing automated tests specifically designed for the circular buffer.
